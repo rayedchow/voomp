@@ -12,4 +12,4 @@ I   also do a lot of web development (TS ReactJS) 🕸.
 
 
 
-Other things that I do as a developer is robotics, Minecraft plugin development, game development, and more.
+Other things that I do as a developer is robotics 🤖, Minecraft plugin development 🟩, game development 🎮, and more 🎞.
