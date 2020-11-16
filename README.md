@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey! 👋
 
-<!--
-**voomp/voomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I   go by as "vamp", nicknamed as "voomp" 👦.
 
-Here are some ideas to get you started:
+I   am a student 📔 and a developer 👨‍💻.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I   don't do many open source projects, but I may do some in the future 💹.
+
+I   am mainly a software developer ©.
+
+I   also do a lot of web development (TS ReactJS) 🕸.
+
+
+
+Other things that I do as a developer is robotics, Minecraft plugin development, game development, and more.
