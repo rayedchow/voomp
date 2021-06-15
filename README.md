@@ -1,15 +1,21 @@
-## Hey! 👋
+```
+➜ 𝗴𝗶𝘁𝗵𝘂𝗯/𝘃𝗼𝗼𝗺𝗽 vim vamp.txt
 
-### I go by as *vamp*, nicknamed as *voomp* 👦
+	let vamp = new SoftwareDeveloper();
 
-I am a ***student*** 📔 and a ***developer*** 👨‍💻
+	vamp.does = [
+		Software Development,
+		Frontend,
+		Robotics,
+		Competitive Programming
+	];
 
-I don't do many ***open source projects***, but I may do some in the future 💹
-
-I am mainly a ***software developer*** ©
-
-I also do a lot of ***web development*** (*TS ReactJS*) 🕸
-
-
-
-Other things that I do as a developer is ***robotics*** 🤖 and ***competitive programming*** 💻
+	vamp.doesNotDoMany = 'open source projects';█
+	~
+	~
+	~
+	~
+	~
+	~
+	-- INSERT --
+```
