@@ -1,5 +1,5 @@
 ```
-➜ 𝗴𝗶𝘁𝗵𝘂𝗯/𝘃𝗼𝗼𝗺𝗽 vim vamp.txt
+➜ 𝗴𝗶𝘁𝗵𝘂𝗯/𝘃𝗼𝗼𝗺𝗽 nvim vamp.txt
 
     let vamp = new SoftwareDeveloper();
 
